@@ -4,7 +4,7 @@
   <br>
   Room link : https://tryhackme.com/room/takeover<br>
   Difficulty : Easy<br>
-  Time : 40 min<br>
+  My Time : 40 min<br>
 </p>
 
 ## Summary
